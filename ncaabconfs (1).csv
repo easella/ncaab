@@ -20300,3 +20300,375 @@
 20298,8.0,San Francisco,West Coast Conference,2022
 20299,9.0,San Diego,West Coast Conference,2022
 20300,10.0,Pepperdine,West Coast Conference,2022
+0,1,Loyola Marymount,West Coast Conference,2023
+1,2,Pepperdine,West Coast Conference,2023
+2,3,Portland,West Coast Conference,2023
+3,4,Saint Mary's (CA),West Coast Conference,2023
+4,5,San Diego,West Coast Conference,2023
+5,6,San Francisco,West Coast Conference,2023
+6,7,Pacific,West Coast Conference,2023
+7,8,Gonzaga,West Coast Conference,2023
+8,9,Santa Clara,West Coast Conference,2023
+9,1,Charlotte,American Athletic Conference,2023
+10,2,East Carolina,American Athletic Conference,2023
+11,3,Memphis,American Athletic Conference,2023
+12,4,North Texas,American Athletic Conference,2023
+13,5,Rice,American Athletic Conference,2023
+14,6,Southern Methodist,American Athletic Conference,2023
+15,7,Temple,American Athletic Conference,2023
+16,8,Tulane,American Athletic Conference,2023
+17,9,Tulsa,American Athletic Conference,2023
+18,10,UTSA,American Athletic Conference,2023
+19,11,Wichita State,American Athletic Conference,2023
+20,12,UAB,American Athletic Conference,2023
+21,13,Florida Atlantic,American Athletic Conference,2023
+22,14,South Florida,American Athletic Conference,2023
+23,1,Boston College,Atlantic Coast Conference,2023
+24,2,Clemson,Atlantic Coast Conference,2023
+25,3,Duke,Atlantic Coast Conference,2023
+26,4,Georgia Tech,Atlantic Coast Conference,2023
+27,5,Louisville,Atlantic Coast Conference,2023
+28,6,Miami (FL),Atlantic Coast Conference,2023
+29,7,NC State,Atlantic Coast Conference,2023
+30,8,North Carolina,Atlantic Coast Conference,2023
+31,9,Notre Dame,Atlantic Coast Conference,2023
+32,10,Pittsburgh,Atlantic Coast Conference,2023
+33,11,Syracuse,Atlantic Coast Conference,2023
+34,12,Virginia,Atlantic Coast Conference,2023
+35,13,Virginia Tech,Atlantic Coast Conference,2023
+36,14,Wake Forest,Atlantic Coast Conference,2023
+37,15,Florida State,Atlantic Coast Conference,2023
+38,1,Massachusetts-Lowell,America East Conference,2023
+39,2,Vermont,America East Conference,2023
+40,3,Albany (NY),America East Conference,2023
+41,4,Binghamton,America East Conference,2023
+42,5,Bryant,America East Conference,2023
+43,6,Maine,America East Conference,2023
+44,7,Maryland-Baltimore County,America East Conference,2023
+45,8,New Hampshire,America East Conference,2023
+46,9,NJIT,America East Conference,2023
+47,1,Davidson,Atlantic 10 Conference,2023
+48,2,Dayton,Atlantic 10 Conference,2023
+49,3,Duquesne,Atlantic 10 Conference,2023
+50,4,Fordham,Atlantic 10 Conference,2023
+51,5,George Mason,Atlantic 10 Conference,2023
+52,6,George Washington,Atlantic 10 Conference,2023
+53,7,La Salle,Atlantic 10 Conference,2023
+54,8,Massachusetts,Atlantic 10 Conference,2023
+55,9,Rhode Island,Atlantic 10 Conference,2023
+56,10,Richmond,Atlantic 10 Conference,2023
+57,11,Saint Joseph's,Atlantic 10 Conference,2023
+58,12,Saint Louis,Atlantic 10 Conference,2023
+59,13,St. Bonaventure,Atlantic 10 Conference,2023
+60,14,Virginia Commonwealth,Atlantic 10 Conference,2023
+61,15,Loyola (IL),Atlantic 10 Conference,2023
+62,1,Austin Peay,Atlantic Sun Conference,2023
+63,2,Eastern Kentucky,Atlantic Sun Conference,2023
+64,3,Jacksonville,Atlantic Sun Conference,2023
+65,4,Kennesaw State,Atlantic Sun Conference,2023
+66,5,North Alabama,Atlantic Sun Conference,2023
+67,6,North Florida,Atlantic Sun Conference,2023
+68,7,Stetson,Atlantic Sun Conference,2023
+69,8,Bellarmine,Atlantic Sun Conference,2023
+70,9,Central Arkansas,Atlantic Sun Conference,2023
+71,10,Florida Gulf Coast,Atlantic Sun Conference,2023
+72,11,Lipscomb,Atlantic Sun Conference,2023
+73,12,Queens (NC),Atlantic Sun Conference,2023
+74,1,Baylor,Big 12 Conference,2023
+75,2,Brigham Young,Big 12 Conference,2023
+76,3,Central Florida,Big 12 Conference,2023
+77,4,Cincinnati,Big 12 Conference,2023
+78,5,Houston,Big 12 Conference,2023
+79,6,Iowa State,Big 12 Conference,2023
+80,7,Kansas,Big 12 Conference,2023
+81,8,Oklahoma,Big 12 Conference,2023
+82,9,TCU,Big 12 Conference,2023
+83,10,Texas,Big 12 Conference,2023
+84,11,West Virginia,Big 12 Conference,2023
+85,12,Kansas State,Big 12 Conference,2023
+86,13,Oklahoma State,Big 12 Conference,2023
+87,14,Texas Tech,Big 12 Conference,2023
+88,1,Butler,Big East Conference,2023
+89,2,Connecticut,Big East Conference,2023
+90,3,Creighton,Big East Conference,2023
+91,4,Georgetown,Big East Conference,2023
+92,5,Marquette,Big East Conference,2023
+93,6,Providence,Big East Conference,2023
+94,7,Seton Hall,Big East Conference,2023
+95,8,St. John's (NY),Big East Conference,2023
+96,9,Villanova,Big East Conference,2023
+97,10,Xavier,Big East Conference,2023
+98,11,DePaul,Big East Conference,2023
+99,1,Idaho State,Big Sky Conference,2023
+100,2,Montana,Big Sky Conference,2023
+101,3,Montana State,Big Sky Conference,2023
+102,4,Northern Colorado,Big Sky Conference,2023
+103,5,Portland State,Big Sky Conference,2023
+104,6,Weber State,Big Sky Conference,2023
+105,7,Eastern Washington,Big Sky Conference,2023
+106,8,Idaho,Big Sky Conference,2023
+107,9,Northern Arizona,Big Sky Conference,2023
+108,10,Sacramento State,Big Sky Conference,2023
+109,1,Charleston Southern,Big South Conference,2023
+110,2,Gardner-Webb,Big South Conference,2023
+111,3,High Point,Big South Conference,2023
+112,4,Presbyterian,Big South Conference,2023
+113,5,Longwood,Big South Conference,2023
+114,6,Radford,Big South Conference,2023
+115,7,South Carolina Upstate,Big South Conference,2023
+116,8,UNC Asheville,Big South Conference,2023
+117,9,Winthrop,Big South Conference,2023
+118,1,Illinois,Big Ten Conference,2023
+119,2,Indiana,Big Ten Conference,2023
+120,3,Iowa,Big Ten Conference,2023
+121,4,Maryland,Big Ten Conference,2023
+122,5,Michigan,Big Ten Conference,2023
+123,6,Minnesota,Big Ten Conference,2023
+124,7,Nebraska,Big Ten Conference,2023
+125,8,Northwestern,Big Ten Conference,2023
+126,9,Ohio State,Big Ten Conference,2023
+127,10,Penn State,Big Ten Conference,2023
+128,11,Purdue,Big Ten Conference,2023
+129,12,Wisconsin,Big Ten Conference,2023
+130,13,Michigan State,Big Ten Conference,2023
+131,14,Rutgers,Big Ten Conference,2023
+132,1,Cal Poly,Big West Conference,2023
+133,2,Cal State Bakersfield,Big West Conference,2023
+134,3,UC Davis,Big West Conference,2023
+135,4,UC Riverside,Big West Conference,2023
+136,5,UC San Diego,Big West Conference,2023
+137,6,Cal State Fullerton,Big West Conference,2023
+138,7,Cal State Northridge,Big West Conference,2023
+139,8,Long Beach State,Big West Conference,2023
+140,9,UC Irvine,Big West Conference,2023
+141,10,Hawaii,Big West Conference,2023
+142,11,UC Santa Barbara,Big West Conference,2023
+143,1,Campbell,Coastal Athletic Association,2023
+144,2,College of Charleston,Coastal Athletic Association,2023
+145,3,Delaware,Coastal Athletic Association,2023
+146,4,Hofstra,Coastal Athletic Association,2023
+147,5,Northeastern,Coastal Athletic Association,2023
+148,6,UNC Wilmington,Coastal Athletic Association,2023
+149,7,William & Mary,Coastal Athletic Association,2023
+150,8,Drexel,Coastal Athletic Association,2023
+151,9,Elon,Coastal Athletic Association,2023
+152,10,Hampton,Coastal Athletic Association,2023
+153,11,Monmouth,Coastal Athletic Association,2023
+154,12,North Carolina A&T,Coastal Athletic Association,2023
+155,13,Stony Brook,Coastal Athletic Association,2023
+156,14,Towson,Coastal Athletic Association,2023
+157,1,Jacksonville State,Conference USA,2023
+158,2,Liberty,Conference USA,2023
+159,3,Middle Tennessee,Conference USA,2023
+160,4,Sam Houston,Conference USA,2023
+161,5,UTEP,Conference USA,2023
+162,6,Western Kentucky,Conference USA,2023
+163,7,Florida International,Conference USA,2023
+164,8,Louisiana Tech,Conference USA,2023
+165,9,New Mexico State,Conference USA,2023
+166,1,IUPUI,Horizon League,2023
+167,2,Milwaukee,Horizon League,2023
+168,3,Cleveland State,Horizon League,2023
+169,4,Detroit Mercy,Horizon League,2023
+170,5,Green Bay,Horizon League,2023
+171,6,Northern Kentucky,Horizon League,2023
+172,7,Oakland,Horizon League,2023
+173,8,Robert Morris,Horizon League,2023
+174,9,Youngstown State,Horizon League,2023
+175,10,Purdue Fort Wayne,Horizon League,2023
+176,11,Wright State,Horizon League,2023
+177,1,Chicago State,Independent,2023
+178,1,Cornell,Ivy League,2023
+179,2,Harvard,Ivy League,2023
+180,3,Pennsylvania,Ivy League,2023
+181,4,Princeton,Ivy League,2023
+182,5,Yale,Ivy League,2023
+183,6,Brown,Ivy League,2023
+184,7,Columbia,Ivy League,2023
+185,8,Dartmouth,Ivy League,2023
+186,1,Manhattan,Metro Atlantic Athletic Conference,2023
+187,2,Marist,Metro Atlantic Athletic Conference,2023
+188,3,Quinnipiac,Metro Atlantic Athletic Conference,2023
+189,4,Rider,Metro Atlantic Athletic Conference,2023
+190,5,Siena,Metro Atlantic Athletic Conference,2023
+191,6,Fairfield,Metro Atlantic Athletic Conference,2023
+192,7,Iona,Metro Atlantic Athletic Conference,2023
+193,8,Mount St. Mary's,Metro Atlantic Athletic Conference,2023
+194,9,Niagara,Metro Atlantic Athletic Conference,2023
+195,10,Saint Peter's,Metro Atlantic Athletic Conference,2023
+196,11,Canisius,Metro Atlantic Athletic Conference,2023
+197,1,Akron,Mid-American Conference,2023
+198,2,Ball State,Mid-American Conference,2023
+199,3,Bowling Green State,Mid-American Conference,2023
+200,4,Kent State,Mid-American Conference,2023
+201,5,Toledo,Mid-American Conference,2023
+202,6,Buffalo,Mid-American Conference,2023
+203,7,Central Michigan,Mid-American Conference,2023
+204,8,Eastern Michigan,Mid-American Conference,2023
+205,9,Miami (OH),Mid-American Conference,2023
+206,10,Northern Illinois,Mid-American Conference,2023
+207,11,Western Michigan,Mid-American Conference,2023
+208,12,Ohio,Mid-American Conference,2023
+209,1,Howard,Mid-Eastern Athletic Conference,2023
+210,2,Norfolk State,Mid-Eastern Athletic Conference,2023
+211,3,South Carolina State,Mid-Eastern Athletic Conference,2023
+212,4,Coppin State,Mid-Eastern Athletic Conference,2023
+213,5,Delaware State,Mid-Eastern Athletic Conference,2023
+214,6,Maryland-Eastern Shore,Mid-Eastern Athletic Conference,2023
+215,7,Morgan State,Mid-Eastern Athletic Conference,2023
+216,8,North Carolina Central,Mid-Eastern Athletic Conference,2023
+217,1,Belmont,Missouri Valley Conference,2023
+218,2,Bradley,Missouri Valley Conference,2023
+219,3,Evansville,Missouri Valley Conference,2023
+220,4,Illinois State,Missouri Valley Conference,2023
+221,5,Indiana State,Missouri Valley Conference,2023
+222,6,Murray State,Missouri Valley Conference,2023
+223,7,Southern Illinois,Missouri Valley Conference,2023
+224,8,Valparaiso,Missouri Valley Conference,2023
+225,9,Illinois-Chicago,Missouri Valley Conference,2023
+226,10,Missouri State,Missouri Valley Conference,2023
+227,11,Northern Iowa,Missouri Valley Conference,2023
+228,12,Drake,Missouri Valley Conference,2023
+229,1,Boise State,Mountain West Conference,2023
+230,2,Colorado State,Mountain West Conference,2023
+231,3,Fresno State,Mountain West Conference,2023
+232,4,Nevada,Mountain West Conference,2023
+233,5,New Mexico,Mountain West Conference,2023
+234,6,San Diego State,Mountain West Conference,2023
+235,7,San Jose State,Mountain West Conference,2023
+236,8,Utah State,Mountain West Conference,2023
+237,9,Wyoming,Mountain West Conference,2023
+238,10,Air Force,Mountain West Conference,2023
+239,11,Nevada-Las Vegas,Mountain West Conference,2023
+240,1,Fairleigh Dickinson,Northeast Conference,2023
+241,2,Sacred Heart,Northeast Conference,2023
+242,3,Central Connecticut State,Northeast Conference,2023
+243,4,Le Moyne,Northeast Conference,2023
+244,5,Merrimack,Northeast Conference,2023
+245,6,Saint Francis (PA),Northeast Conference,2023
+246,7,Stonehill,Northeast Conference,2023
+247,8,Wagner,Northeast Conference,2023
+248,9,Long Island University,Northeast Conference,2023
+249,10,St. Francis (NY),Northeast Conference,2023
+250,1,Little Rock,Ohio Valley Conference,2023
+251,2,Tennessee State,Ohio Valley Conference,2023
+252,3,Tennessee-Martin,Ohio Valley Conference,2023
+253,4,Eastern Illinois,Ohio Valley Conference,2023
+254,5,Lindenwood,Ohio Valley Conference,2023
+255,6,Morehead State,Ohio Valley Conference,2023
+256,7,Southeast Missouri State,Ohio Valley Conference,2023
+257,8,Southern Illinois-Edwardsville,Ohio Valley Conference,2023
+258,9,Southern Indiana,Ohio Valley Conference,2023
+259,10,Tennessee Tech,Ohio Valley Conference,2023
+260,11,Western Illinois,Ohio Valley Conference,2023
+261,1,Arizona,Pac-12 Conference,2023
+262,2,California,Pac-12 Conference,2023
+263,3,Colorado,Pac-12 Conference,2023
+264,4,Oregon,Pac-12 Conference,2023
+265,5,Oregon State,Pac-12 Conference,2023
+266,6,Southern California,Pac-12 Conference,2023
+267,7,Stanford,Pac-12 Conference,2023
+268,8,UCLA,Pac-12 Conference,2023
+269,9,Utah,Pac-12 Conference,2023
+270,10,Washington,Pac-12 Conference,2023
+271,11,Washington State,Pac-12 Conference,2023
+272,12,Arizona State,Pac-12 Conference,2023
+273,1,Colgate,Patriot League,2023
+274,2,American,Patriot League,2023
+275,3,Army,Patriot League,2023
+276,4,Boston University,Patriot League,2023
+277,5,Bucknell,Patriot League,2023
+278,6,Holy Cross,Patriot League,2023
+279,7,Lafayette,Patriot League,2023
+280,8,Lehigh,Patriot League,2023
+281,9,Loyola (MD),Patriot League,2023
+282,10,Navy,Patriot League,2023
+283,1,Alabama,Southeastern Conference,2023
+284,2,Arkansas,Southeastern Conference,2023
+285,3,Florida,Southeastern Conference,2023
+286,4,Kentucky,Southeastern Conference,2023
+287,5,Louisiana State,Southeastern Conference,2023
+288,6,Mississippi,Southeastern Conference,2023
+289,7,Missouri,Southeastern Conference,2023
+290,8,South Carolina,Southeastern Conference,2023
+291,9,Tennessee,Southeastern Conference,2023
+292,10,Texas A&M,Southeastern Conference,2023
+293,11,Auburn,Southeastern Conference,2023
+294,12,Georgia,Southeastern Conference,2023
+295,13,Vanderbilt,Southeastern Conference,2023
+296,14,Mississippi State,Southeastern Conference,2023
+297,1,Chattanooga,Southern Conference,2023
+298,2,East Tennessee State,Southern Conference,2023
+299,3,Furman,Southern Conference,2023
+300,4,Western Carolina,Southern Conference,2023
+301,5,Wofford,Southern Conference,2023
+302,6,Mercer,Southern Conference,2023
+303,7,Samford,Southern Conference,2023
+304,8,The Citadel,Southern Conference,2023
+305,9,Virginia Military Institute,Southern Conference,2023
+306,10,UNC Greensboro,Southern Conference,2023
+307,1,Lamar,Southland Conference,2023
+308,2,McNeese State,Southland Conference,2023
+309,3,New Orleans,Southland Conference,2023
+310,4,Northwestern State,Southland Conference,2023
+311,5,Southeastern Louisiana,Southland Conference,2023
+312,6,Texas A&M-Corpus Christi,Southland Conference,2023
+313,7,Houston Christian,Southland Conference,2023
+314,8,Incarnate Word,Southland Conference,2023
+315,9,Nicholls State,Southland Conference,2023
+316,10,Texas A&M-Commerce,Southland Conference,2023
+317,1,Kansas City,Summit League,2023
+318,2,North Dakota State,Summit League,2023
+319,3,Omaha,Summit League,2023
+320,4,South Dakota,Summit League,2023
+321,5,Denver,Summit League,2023
+322,6,North Dakota,Summit League,2023
+323,7,Oral Roberts,Summit League,2023
+324,8,South Dakota State,Summit League,2023
+325,9,St. Thomas,Summit League,2023
+326,1,Appalachian State,Sun Belt Conference,2023
+327,2,Coastal Carolina,Sun Belt Conference,2023
+328,3,James Madison,Sun Belt Conference,2023
+329,4,Louisiana,Sun Belt Conference,2023
+330,5,Marshall,Sun Belt Conference,2023
+331,6,Old Dominion,Sun Belt Conference,2023
+332,7,Southern Mississippi,Sun Belt Conference,2023
+333,8,Troy,Sun Belt Conference,2023
+334,9,Arkansas State,Sun Belt Conference,2023
+335,10,Georgia Southern,Sun Belt Conference,2023
+336,11,Georgia State,Sun Belt Conference,2023
+337,12,Louisiana-Monroe,Sun Belt Conference,2023
+338,13,South Alabama,Sun Belt Conference,2023
+339,14,Texas State,Sun Belt Conference,2023
+340,1,Grambling,Southwest Athletic Conference,2023
+341,2,Prairie View,Southwest Athletic Conference,2023
+342,3,Alabama State,Southwest Athletic Conference,2023
+343,4,Alcorn State,Southwest Athletic Conference,2023
+344,5,Arkansas-Pine Bluff,Southwest Athletic Conference,2023
+345,6,Bethune-Cookman,Southwest Athletic Conference,2023
+346,7,Florida A&M,Southwest Athletic Conference,2023
+347,8,Jackson State,Southwest Athletic Conference,2023
+348,9,Mississippi Valley State,Southwest Athletic Conference,2023
+349,10,Southern,Southwest Athletic Conference,2023
+350,11,Texas Southern,Southwest Athletic Conference,2023
+351,12,Alabama A&M,Southwest Athletic Conference,2023
+352,1,Abilene Christian,Western Athletic Conference,2023
+353,2,California Baptist,Western Athletic Conference,2023
+354,3,Grand Canyon,Western Athletic Conference,2023
+355,4,Stephen F. Austin,Western Athletic Conference,2023
+356,5,Texas-Rio Grande Valley,Western Athletic Conference,2023
+357,6,UT Arlington,Western Athletic Conference,2023
+358,7,Utah Valley,Western Athletic Conference,2023
+359,8,Southern Utah,Western Athletic Conference,2023
+360,9,Tarleton State,Western Athletic Conference,2023
+361,10,Seattle,Western Athletic Conference,2023
+362,11,Utah Tech,Western Athletic Conference,2023
+363,1,Loyola Marymount,West Coast Conference,2023
+364,2,Pepperdine,West Coast Conference,2023
+365,3,Portland,West Coast Conference,2023
+366,4,Saint Mary's (CA),West Coast Conference,2023
+367,5,San Diego,West Coast Conference,2023
+368,6,San Francisco,West Coast Conference,2023
+369,7,Pacific,West Coast Conference,2023
+370,8,Gonzaga,West Coast Conference,2023
+371,9,Santa Clara,West Coast Conference,2023
